@@ -9,7 +9,7 @@ if (!defined('BASEPATH'))
  * @package         CodeIgniter
  * @category        Libraries
  * @author          Tarique Mosharraf, TextRid
- * @link            https://github.com/soilapps/Experttexting-api-library/Etexting.php
+ * @link            https://github.com/soilapps/Experttexting-api-library/blob/master/Etexting.php
  * @link            http://textrid.com
  * @license         http://www.opensource.org/licenses/mit-license.html
  */
