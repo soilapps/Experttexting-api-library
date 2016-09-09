@@ -4,7 +4,7 @@ if (!defined('BASEPATH'))
 /**
  * Config for the Plivo library
  */
-$config['USERNAME'] = 'cpagainers';
-$config['PASSWORD'] = 'BD!@3456@';
-$config['APIKEY'] = 's7rpfyaryhboxn8';
+$config['USERNAME'] = 'experttexting username';
+$config['PASSWORD'] = 'experttexting password';
+$config['APIKEY'] = 'api key provided by experttexting';
 $config['END_POINT'] = 'https://www.experttexting.com/exptapi/exptsms.asmx';
